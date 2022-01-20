@@ -5,6 +5,7 @@
 ![badge](https://img.shields.io/badge/license-mit-blue)
 
 ![Capture](/assets/images/WeatherDashCapture.PNG)
+[Deployed Application](https://cboensch6505.github.io/weatherDashboard/)
 
 ## Acceptance Criteria
 
@@ -23,7 +24,9 @@ THEN I am again presented with current and future conditions for that city
 ```
 
 ## Table-of-Contents
-* [Video Demo](#videoDemo)
+
+
+* [Video](#video)
 
 * [Description](#description)
 
@@ -35,7 +38,7 @@ THEN I am again presented with current and future conditions for that city
 
 * [Questions](#questions)
 
-## [Video Demo](#videoDemo)
+## [Video](#table-of-contents)
 
 https://user-images.githubusercontent.com/87203701/150266228-55491d57-d702-48b8-a80f-38d02952150a.mp4
 
@@ -46,12 +49,12 @@ This project is a simple weather dashboard that lets the user input a city and s
 
 It was created to give the user a simple and easy way to view the expected weather conditions for the next 5 days in any area they choose.
 
-Simply open the 'index.html' in your browser and input the city into the field. After which the weather conditions will populate. The city saves in local storage so you can recall it easily later on or clear the storage and start again.
+Simply open the `index.html` in your browser and input the city into the field. After which the weather conditions will populate. The city saves in local storage so you can recall it easily later on or clear the storage and start again.
 
 ## [Installation](#table-of-contents)
 
 
-Navigate to the github repository and clone the repo into your own folder. Once there simply open the 'index.html in your browser.'
+Navigate to the [github repository](https://github.com/cboensch6505/weatherDashboard) and clone the repo into your own folder. Once there simply open the `index.html` in your browser.
 
 
 ## [License](#table-of-contents)
