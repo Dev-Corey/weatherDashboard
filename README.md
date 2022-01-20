@@ -4,7 +4,7 @@
 
 ![badge](https://img.shields.io/badge/license-mit-blue)
 
-![Capture](\assets\images\WeatherDashCapture.PNG)
+![Capture](/assets/images/WeatherDashCapture.PNG)
 
 ## Acceptance Criteria
 
@@ -37,6 +37,7 @@ THEN I am again presented with current and future conditions for that city
 
 ## [Video Demo](#videoDemo)
 
+https://user-images.githubusercontent.com/87203701/150266228-55491d57-d702-48b8-a80f-38d02952150a.mp4
 
 
 ## [Description](#table-of-contents)
@@ -48,6 +49,7 @@ It was created to give the user a simple and easy way to view the expected weath
 Simply open the 'index.html' in your browser and input the city into the field. After which the weather conditions will populate. The city saves in local storage so you can recall it easily later on or clear the storage and start again.
 
 ## [Installation](#table-of-contents)
+
 
 Navigate to the github repository and clone the repo into your own folder. Once there simply open the 'index.html in your browser.'
 
